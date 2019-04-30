@@ -8,7 +8,11 @@
     "title": "Post 1"
   },
   {
+<<<<<<< HEAD
     "id": 2,
+=======
+    "id": 201,
+>>>>>>> 23f3a7f... commit'
     "title": "Post 2"
   },
   {
